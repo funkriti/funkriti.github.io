@@ -1,2 +1,2 @@
-# funkriti.io
+# funkriti.github.io
 Website
